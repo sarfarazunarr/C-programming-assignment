@@ -10,10 +10,6 @@ This repository contains my solutions to the C programming tasks assigned by the
 - **Week6 & Week7**: Functions
 - **Week8**: Manipulating Arrays
 - **Week9**: Pointers Notations and Arrays
-- **Week10**: Pointers
-- **Week11**: Strings
-- **Week12&13**: Structures
-- **Week14&15**: File Management
 
 Feel free to reach out if you have any questions or suggestions!
 
