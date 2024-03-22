@@ -1,7 +1,7 @@
 # University of Sufism and Modern Science - C Programming Tasks
 
 ## Overview
-This repository contains my solutions to the C programming tasks assigned by the University of Sufism and Modern Science, Bhitshah. The tasks cover Week 1 to Week 9 of the course.
+This repository contains my solutions to the C programming tasks assigned by the University of Sufism and Modern Science, Bhitshah. The tasks cover Week 1 to Week 15 of the course.
 
 ## Folder Structure
 - **Week1 & Week2**: The Programming Environment
